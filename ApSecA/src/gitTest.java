@@ -8,6 +8,7 @@ public class gitTest {
 		System.out.println("This is how we do commit and push");
 		System.out.println("This is how we do commit and push in dev");
 		System.out.println("Pull");
+		System.out.println("Wao");
 		
 	}
 
