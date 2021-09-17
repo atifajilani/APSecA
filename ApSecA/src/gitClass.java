@@ -1,5 +1,5 @@
 
-public class gitTest {
+public class gitClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,5 +11,14 @@ public class gitTest {
 		System.out.println("Wao");
 		
 	}
+	
+	public int add (int a , int b) {
+		return a+b;
+	}
+	
+	public gitClass() {
+		
+	}
+	
 
 }
